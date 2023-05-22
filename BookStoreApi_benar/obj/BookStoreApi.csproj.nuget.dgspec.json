@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\smt4\\restful\\New folder\\New folder\\BookStoreApi\\BookStoreApi.csproj": {}
+    "D:\\smt4\\restful\\TodoApi\\BookStoreApi_benar\\BookStoreApi.csproj": {}
   },
   "projects": {
-    "D:\\smt4\\restful\\New folder\\New folder\\BookStoreApi\\BookStoreApi.csproj": {
+    "D:\\smt4\\restful\\TodoApi\\BookStoreApi_benar\\BookStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\smt4\\restful\\New folder\\New folder\\BookStoreApi\\BookStoreApi.csproj",
+        "projectUniqueName": "D:\\smt4\\restful\\TodoApi\\BookStoreApi_benar\\BookStoreApi.csproj",
         "projectName": "BookStoreApi",
-        "projectPath": "D:\\smt4\\restful\\New folder\\New folder\\BookStoreApi\\BookStoreApi.csproj",
+        "projectPath": "D:\\smt4\\restful\\TodoApi\\BookStoreApi_benar\\BookStoreApi.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\smt4\\restful\\New folder\\New folder\\BookStoreApi\\obj\\",
+        "outputPath": "D:\\smt4\\restful\\TodoApi\\BookStoreApi_benar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.3, )"
