@@ -1,0 +1,244 @@
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\BookStoreApi.exe
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\BookStoreApi.deps.json
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\BookStoreApi.runtimeconfig.json
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\BookStoreApi.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\BookStoreApi.pdb
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\Snappier.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Valent\BookStoreApi\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.AssemblyInfo.cs
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreApi.props
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\scopedcss\bundle\BookStoreApi.styles.css
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.CopyComplete
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.dll
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\refint\BookStoreApi.dll
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.pdb
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\BookStoreApi.genruntimeconfig.cache
+C:\Users\Valent\BookStoreApi\obj\Debug\net7.0\ref\BookStoreApi.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.AssemblyReference.cache
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.AssemblyInfoInputs.cache
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.AssemblyInfo.cs
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.CoreCompileInputs.cache
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\refint\BookStoreApi.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.pdb
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\appsettings.Development.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\appsettings.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\BookStoreApi.exe
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\BookStoreApi.deps.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\BookStoreApi.runtimeconfig.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\BookStoreApi.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\BookStoreApi.pdb
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\AWSSDK.Core.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\DnsClient.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\MongoDB.Bson.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\MongoDB.Driver.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\SharpCompress.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\Snappier.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\ZstdSharp.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreApi.props
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\scopedcss\bundle\BookStoreApi.styles.css
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.CopyComplete
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\BookStoreApi.genruntimeconfig.cache
+E:\A Kuliah\SMT 4\Restful API\TodoApi\BookStoreApi\obj\Debug\net7.0\ref\BookStoreApi.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\appsettings.Development.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\appsettings.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\BookStoreApi.exe
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\BookStoreApi.deps.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\BookStoreApi.runtimeconfig.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\BookStoreApi.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\BookStoreApi.pdb
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\DnsClient.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\SharpCompress.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\Snappier.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\ZstdSharp.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\smt4\restful\New folder\New folder\BookStoreApi\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.AssemblyReference.cache
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.AssemblyInfoInputs.cache
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.AssemblyInfo.cs
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.CoreCompileInputs.cache
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreApi.props
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\scopedcss\bundle\BookStoreApi.styles.css
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.csproj.CopyComplete
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\refint\BookStoreApi.dll
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.pdb
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\BookStoreApi.genruntimeconfig.cache
+D:\smt4\restful\New folder\New folder\BookStoreApi\obj\Debug\net7.0\ref\BookStoreApi.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\appsettings.Development.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\appsettings.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.exe
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.deps.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.runtimeconfig.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.pdb
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\DnsClient.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\SharpCompress.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Snappier.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\ZstdSharp.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\smt4\restful\TodoApi\BookStoreApi_benar\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.csproj.AssemblyReference.cache
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.AssemblyInfoInputs.cache
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.AssemblyInfo.cs
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.csproj.CoreCompileInputs.cache
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreApi.props
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets.pack.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets.build.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets.development.json
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\scopedcss\bundle\BookStoreApi.styles.css
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.csproj.CopyComplete
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\refint\BookStoreApi.dll
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.pdb
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.genruntimeconfig.cache
+D:\smt4\restful\TodoApi\BookStoreApi_benar\obj\Debug\net7.0\ref\BookStoreApi.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\appsettings.Development.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\appsettings.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.exe
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.deps.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.runtimeconfig.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\BookStoreApi.pdb
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\DnsClient.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\SharpCompress.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Snappier.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\ZstdSharp.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.csproj.AssemblyReference.cache
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.AssemblyInfoInputs.cache
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.AssemblyInfo.cs
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.csproj.CoreCompileInputs.cache
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreApi.props
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets.pack.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets.build.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\staticwebassets.development.json
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\scopedcss\bundle\BookStoreApi.styles.css
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.csproj.CopyComplete
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\refint\BookStoreApi.dll
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.pdb
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\BookStoreApi.genruntimeconfig.cache
+D:\smt4\drrwa_2023-main\drrwa_2023-main\BookStoreApi_benar\obj\Debug\net7.0\ref\BookStoreApi.dll
