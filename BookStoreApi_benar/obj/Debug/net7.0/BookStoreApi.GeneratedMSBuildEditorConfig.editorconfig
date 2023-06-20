@@ -15,3 +15,39 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\smt4\restful\TodoApi\BookStoreApi_benar
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Pages/Bookstore.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFBhZ2VzXEJvb2tzdG9yZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFNoYXJlZFxTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFNoYXJlZFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-je7uvzts0j
+
+[D:/smt4/restful/TodoApi/BookStoreApi_benar/Bookstore/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Qm9va3N0b3JlXFNoYXJlZFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-22efb27n13

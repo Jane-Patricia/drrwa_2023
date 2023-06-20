@@ -1,0 +1,6 @@
+D:\smt4\restful\TodoApi\Bookstoreee\obj\Debug\net7.0\Bookstoreee.csproj.AssemblyReference.cache
+D:\smt4\restful\TodoApi\Bookstoreee\obj\Debug\net7.0\Bookstoreee.GeneratedMSBuildEditorConfig.editorconfig
+D:\smt4\restful\TodoApi\Bookstoreee\obj\Debug\net7.0\Bookstoreee.AssemblyInfoInputs.cache
+D:\smt4\restful\TodoApi\Bookstoreee\obj\Debug\net7.0\Bookstoreee.AssemblyInfo.cs
+D:\smt4\restful\TodoApi\Bookstoreee\obj\Debug\net7.0\Bookstoreee.csproj.CoreCompileInputs.cache
+D:\smt4\restful\TodoApi\Bookstoreee\obj\Debug\net7.0\Bookstoreee.MvcApplicationPartsAssemblyInfo.cache

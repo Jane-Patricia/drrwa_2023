@@ -1,0 +1,6 @@
+D:\smt4\restful\TodoApi\Bookstore\obj\Debug\net7.0\Bookstore.csproj.AssemblyReference.cache
+D:\smt4\restful\TodoApi\Bookstore\obj\Debug\net7.0\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+D:\smt4\restful\TodoApi\Bookstore\obj\Debug\net7.0\Bookstore.AssemblyInfoInputs.cache
+D:\smt4\restful\TodoApi\Bookstore\obj\Debug\net7.0\Bookstore.AssemblyInfo.cs
+D:\smt4\restful\TodoApi\Bookstore\obj\Debug\net7.0\Bookstore.csproj.CoreCompileInputs.cache
+D:\smt4\restful\TodoApi\Bookstore\obj\Debug\net7.0\Bookstore.MvcApplicationPartsAssemblyInfo.cache
